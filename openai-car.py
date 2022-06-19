@@ -54,3 +54,8 @@ for step in range(num_steps):
 
 # Close the env
 env.close()
+
+
+
+
+type(env.observation_space)
